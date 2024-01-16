@@ -23,4 +23,5 @@ Comprometido com documentação clara e objetiva para garantir uma compreensão 
 
 🌱 Próximos Passos
 Constantemente buscando aprender e aplicar novas tecnologias para aprimorar minhas habilidades no desenvolvimento de software.
+
 Sinta-se à vontade para explorar meus repositórios e entre em contato se tiver alguma dúvida ou sugestão. Vamos construir algo incrível juntos! 🚀
