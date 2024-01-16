@@ -2,7 +2,7 @@
 
 🚀 Principais Áreas de Interesse
 Desenvolvimento back-end com ênfase em Java e PHP.
-Experiência sólida em gerenciamento e otimização de bancos de dados MySQL.
+Experiência de bancos de dados MySQL.
 
 🛠️ Ferramentas e Tecnologias
 Proficiente no uso de IDEs como Visual Studio Code e NetBeans.
