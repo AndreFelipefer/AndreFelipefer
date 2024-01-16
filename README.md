@@ -1,5 +1,9 @@
 👋 Olá, sou André Felipe, um entusiasta do desenvolvimento de software focado principalmente no back-end, MySQL e qualidade assegurada. Aqui está um breve resumo do que você pode encontrar em meu perfil do GitHub:
 
+⏩ Mudança de Rota
+Em uma guinada ousada, deixei o mundo comercial de Supervisor de vendas para explorar a terra promissora da tecnologia.
+Troquei metas de vendas por linhas de código e nunca olhei para trás.
+
 🚀 Principais Áreas de Interesse
 Desenvolvimento back-end com ênfase em Java e PHP.
 Experiência de bancos de dados MySQL.
