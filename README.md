@@ -63,3 +63,6 @@ Comprometido com documentação clara e objetiva para garantir uma compreensão 
 Constantemente buscando aprender e aplicar novas tecnologias e práticas de QA para aprimorar minhas habilidades no desenvolvimento de software.
 
 Sinta-se à vontade para explorar meus repositórios e entre em contato se tiver alguma dúvida ou sugestão. Vamos construir algo incrível juntos! 🚀
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreFelipefer&theme=graywhite)
